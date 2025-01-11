@@ -1,4 +1,4 @@
-# Figure Ripper Script
+# JSON-Figure-Ripper Script
 
 This script is designed to download `.nitro` clothing files from a specified base URL based on a JSON configuration file. It supports concurrent downloads and is customizable for your needs. Feel free to recode this script for your needs.
 
