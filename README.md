@@ -26,7 +26,7 @@ This script is designed to download `.nitro` clothing files from a specified bas
 - (Optional) Adjust concurrencyLimit for the number of concurrent downloads based on your network capacity.
 
 3. **Prepare FigureMap.json file:**
-- Download a FigureMap.json file and place it in the same into the same directory.
+- Download a FigureMap.json file and place it into the same directory.
 
 ## Usage
    Run the script using the following command:
